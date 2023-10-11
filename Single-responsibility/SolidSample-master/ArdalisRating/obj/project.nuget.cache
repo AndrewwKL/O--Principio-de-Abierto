@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "G3kCen5gPCQoD40LqiUHlIFMnEouihci7ggXd8Ktcr/+Ekc9Zrr98T697W/iYeRbYSPEQAl0GRf54USDFVfSeg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cf932\\OneDrive\\Documents\\GitHub\\Single-responsibility\\SolidSample-master\\ArdalisRating\\ArdalisRating.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cf932\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
